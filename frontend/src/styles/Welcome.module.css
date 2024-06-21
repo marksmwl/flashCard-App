@@ -1,0 +1,9 @@
+.welcomeCard{
+    background-color: white;
+    color: grey;
+}
+
+.cardText {
+    text-align: center;
+    font-size: large;
+}

@@ -1,0 +1,67 @@
+.card-rep {
+    margin: 1em;
+    height: 20em;
+    width: 20em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 2em;
+    padding: 1em;
+
+}
+
+.front-content {
+    margin-top: 2em;
+    width: 80%;
+    height: 50em;
+    overflow: scroll;
+    overflow-x: hidden;
+
+}
+
+.welcome-text {
+    font-size: 4em;
+    color: white;
+}
+
+.front-content-hidden {
+    display: none;
+}
+
+
+.back-content {
+    margin-top: 2em;
+    width: 80%;
+    height: 50em;
+    overflow: scroll;
+    overflow-x: hidden;
+    word-wrap: break-word;
+    
+}
+
+.back-content-hidden {
+    display: none;
+}
+
+.subject {
+    display: flex;
+    justify-content: center;
+}
+
+.card-form {
+    margin-top: 1em;
+    border: 2px solid white;
+    padding: 2em;
+    background-color: white;
+    border-radius: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 15em;
+    width: 15em;
+}
+
+.card-container {
+    display: flex;
+    
+}
