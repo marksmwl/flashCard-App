@@ -18,14 +18,12 @@ CRUD functionality with flashcards with and without AI generation
 ## Requirements
 Ensure you have the following installed:
 
-Python 3.8+
-Node.js 14+ and npm
-PostgreSQL
-Docker (optional but recommended)
-Getting Started
-Follow these steps to set up the application.
+- Python 3.8+
+- Node.js 14+ and npm
+- PostgreSQL
 
 # Getting Started
+Follow these steps to set up the application.
 
 ## Backend Setup
 Clone the repository:
